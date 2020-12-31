@@ -8,7 +8,7 @@
         </div>
         <div class="col-8">
             <div class="d-flex pt-2"> 
-                <div class="pr-4 pt-2"><h3>Our CodeGram</h3></div>
+                <div class="pr-4 pt-2"><h3>{{$user->username}}</h3></div>
                 <div><button class="btn btn-primary"> Follow</button></div>
             </div>
             <div class="mt-3 d-flex">
